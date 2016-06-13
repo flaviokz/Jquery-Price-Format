@@ -8,3 +8,12 @@ It is costumizable, so you can use other prefixes and separators (for example, u
 Now in the version 2.0, jQuery Price Format can be used for any HTML element.
 
 Check our site for examples: http://jquerypriceformat.com
+
+Install
+===================
+
+```
+bower install jquery-price-format2
+```
+
+ps: the original repository doesn't have bower support... and the command "bower install jquery-price-format" was already registered but didn't work
